@@ -14,6 +14,7 @@ This project includes some mini-projects in HTML, CSS & JavaScript that relate t
 ## Example Projects
 
 1. Digital Clock
+2. Multiplication App
 
 ## Sources
 
